@@ -1,0 +1,29 @@
+{
+  "name": "connectionistjs",
+  "version": "1.0.0",
+  "description": "Javascript library for neural networks",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http-server": "^0.11.1",
+    "lodash": "^4.17.11",
+    "mathjs": "^5.4.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonzabirko/connectionistJS.git"
+  },
+  "author": "Anton Zabirko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonzabirko/connectionistJS/issues"
+  },
+  "homepage": "https://github.com/antonzabirko/connectionistJS#readme"
+}
